@@ -1,4 +1,4 @@
-# Fake Book Review Detection Using PySpark ML
+# Fake Book Review Detection Using PySpark 
 
 ## Project Overview
 This project builds a machine learning model using **PySpark** in Python to classify book reviews as genuine or fake. It is designed to handle large-scale datasets using distributed computing.
